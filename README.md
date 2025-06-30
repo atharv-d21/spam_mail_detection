@@ -13,10 +13,10 @@ This project aims to classify emails as spam or not spam using natural language 
 - Visualization of results
 
 ## 📂 Project Structure
-spam-email-detector/
-├── data/ # Raw and processed data
-├── models/ # PyTorch model definitions
-├── notebooks/ # Colab notebooks
-├── utils/ # Helper scripts (e.g., preprocess.py)
-├── requirements.txt # Dependencies
-└── README.md # Project description
+spam-email-detector/ <br>
+├── data/ # Raw and processed data <br>
+├── models/ # PyTorch model definitions <br>
+├── notebooks/ # Colab notebooks <br>
+├── utils/ # Helper scripts (e.g., preprocess.py) <br>
+├── requirements.txt # Dependencies <br>
+└── README.md # Project description <br>
