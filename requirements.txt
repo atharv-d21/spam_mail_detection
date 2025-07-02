@@ -1,0 +1,5 @@
+The base requirements to run this repository locally on your device are :
+  1. Python version 3.0 or higher
+  2. PyTorch version 2.0.15 or higher
+
+I personally recommend you to run this repository on a device with GPU but it should run on CPU based systems just fine.
